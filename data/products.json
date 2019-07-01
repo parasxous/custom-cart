@@ -1,0 +1,67 @@
+{
+    "games": [{
+            "id": "game1",
+            "game-name": "ACES OF THE LUFTWAFFE: SQUADRON - EXTENDED EDITION PS4 NEW",
+            "game-image-path": "assets/img/acesoftheluftwafee.jpg",
+            "game-price": "45",
+            "game-trailer": "https://www.youtube.com/watch?v=zfhTx0Sk37o"
+        },
+        {
+            "id": "game2",
+            "game-name": "AEGIS OF EARTH: PROTONOVUS ASSAULT PS4 NEW",
+            "game-image-path": "assets/img/aegisofearth.jpeg",
+            "game-price": "50",
+            "game-trailer": "https://www.youtube.com/watch?v=zfhTx0Sk37o"
+        },
+        {
+            "id": "game3",
+            "game-name": "AGONY PS4 NEW",
+            "game-image-path": "assets/img/agony.jpeg",
+            "game-price": "25",
+            "game-trailer": "https://www.youtube.com/watch?v=2tZp6qE08JU"
+        },
+        {
+            "id": "game4",
+            "game-name": "ANTHEM PS4 NEW",
+            "game-image-path": "assets/img/anthem.jpeg",
+            "game-price": "35",
+            "game-trailer": "https://www.youtube.com/watch?v=SCQzhupGrvk"
+        },
+        {
+            "id": "game5",
+            "game-name": "ASSASSIN'S CREED III REMASTERED PS4 NEW",
+            "game-image-path": "assets/img/assasincreed3.jpeg",
+            "game-price": "40",
+            "game-trailer": "https://www.youtube.com/watch?v=-pUhraVG7Ow"
+        },
+        {
+            "id": "game6",
+            "game-name": "BATMAN ARKHAM KNIGHT PS4 NEW",
+            "game-image-path": "assets/img/batman.jpeg",
+            "game-price": "20",
+            "game-trailer": "https://www.youtube.com/watch?v=JeGAQXY2FzI"
+        },
+        {
+            "id": "game7",
+            "game-name": "BATTLEFIELD HARDLINE PS4 NEW",
+            "game-image-path": "assets/img/battlefield.jpg",
+            "game-price": "15",
+            "game-trailer": "https://www.youtube.com/watch?v=dHZon7rqYBA"
+        },
+        {
+            "id": "game8",
+            "game-name": "CALL OF DUTY INFINITE WARFARE PS4 NEW",
+            "game-image-path": "assets/img/callofduty.jpg",
+            "game-price": "30",
+            "game-trailer": "https://www.youtube.com/watch?v=TqcUdwxKxKE"
+        },
+        {
+            "id": "game9",
+            "game-name": "DARKSIDERS 2 DEATHINITIVE EDITION PS4 NEW",
+            "game-image-path": "assets/img/darksiders.jpeg",
+            "game-price": "35",
+            "game-trailer": "https://www.youtube.com/watch?v=SttjjKgf7N8"
+        }
+
+    ]
+}
